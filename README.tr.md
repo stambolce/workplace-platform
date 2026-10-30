@@ -1,6 +1,6 @@
 <div align="center">
 
-# Frilenseri
+# Workplace / Frilenseri
 
 [Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
 
