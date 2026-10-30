@@ -7,7 +7,7 @@
 **A freelance services and project marketplace for Macedonia.**  
 For businesses buying professional help. For freelancers turning skills into a clear offer.
 
-[English](README.md) · [Македонски](README.mk.md)
+[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
 
 <a href="https://workplace.mk/"><img src="assets/product-hero.svg" width="100%" alt="Workplace — freelance services and project marketplace; conceptual illustration" /></a>
 

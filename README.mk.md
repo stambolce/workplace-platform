@@ -7,7 +7,7 @@
 **Маркетплејс за фриленс услуги и проекти во Македонија.**  
 За компании што бараат професионална помош. За фриленсери што ги претвораат вештините во јасна понуда.
 
-[English](README.md) · [Македонски](README.mk.md)
+[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
 
 <a href="https://workplace.mk/"><img src="assets/product-hero.svg" width="100%" alt="Workplace — маркетплејс за фриленс услуги и проекти; концептуална визуелизација" /></a>
 
