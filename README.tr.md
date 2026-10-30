@@ -1,30 +1,20 @@
 <div align="center">
 
-# Workplace
-
-
-
-
-
+# Frilenseri
 
 [Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
 
-<a href="https://workplace.mk/"><img src="assets/product-hero.svg" width="100%" alt="Workplace — freelance services and project marketplace; kavramsal çizim" /></a>
+<img src="assets/product-hero.svg" width="100%" alt="Frilenseri — ürün görsel sunumu" />
 
+**Yapılacak iş için doğru uzmanlık.**
 
 [![Website](https://img.shields.io/badge/WORKPLACE.MK-OFFICIAL_WEBSITE-1476E8?style=for-the-badge)](https://workplace.mk/)
 [![Services](https://img.shields.io/badge/EXPLORE-SERVICES-14223C?style=for-the-badge)](https://workplace.mk/search)
 [![PROCESS IN](https://img.shields.io/badge/CREATED_BY-PROCESS_IN-1476E8?style=for-the-badge)](https://processin.mk)
 
-
-
-### Yapılacak iş için doğru uzmanlık.
-
-**Yapılacak iş için doğru uzmanlık.**
+**LIVE**
 
 </div>
-
----
 
 ## Workplace ve Frilenseri — tek platform, iki alan adı
 
@@ -143,7 +133,7 @@ Güncel hizmet, proje, profil ve koşulların kaynağı resmî sitedir.
 | Ürün | Workplace |
 |---|---|
 | Alan adları | [workplace.mk](https://workplace.mk/) · [frilenseri.mk](https://frilenseri.mk) |
-| Kategori | Serbest hizmet ve proje pazar yeri |
+| Kategori | Serbest çalışma pazarı; Workplace ile aynı platform |
 | Durum | LIVE |
 | Geliştirici | [PROCESS IN](https://processin.mk) |
 | Portföy | [PROCESS IN ürünleri](https://github.com/stambolce/process-in) |

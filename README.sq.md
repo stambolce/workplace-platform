@@ -1,30 +1,20 @@
 <div align="center">
 
-# Workplace
-
-
-
-
-
+# Frilenseri
 
 [Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
 
-<a href="https://workplace.mk/"><img src="assets/product-hero.svg" width="100%" alt="Workplace — freelance services and project marketplace; ilustrim konceptual" /></a>
+<img src="assets/product-hero.svg" width="100%" alt="Frilenseri — prezantim vizual i produktit" />
 
+**Ekspertiza e duhur për punën që ju duhet.**
 
 [![Website](https://img.shields.io/badge/WORKPLACE.MK-OFFICIAL_WEBSITE-1476E8?style=for-the-badge)](https://workplace.mk/)
 [![Services](https://img.shields.io/badge/EXPLORE-SERVICES-14223C?style=for-the-badge)](https://workplace.mk/search)
 [![PROCESS IN](https://img.shields.io/badge/CREATED_BY-PROCESS_IN-1476E8?style=for-the-badge)](https://processin.mk)
 
-
-
-### Ekspertiza e duhur për punën që ju duhet.
-
-**Ekspertiza e duhur për punën që ju duhet.**
+**LIVE**
 
 </div>
-
----
 
 ## Workplace dhe Frilenseri — një platformë, dy domene
 
@@ -143,7 +133,7 @@ Faqja zyrtare është burimi i shërbimeve, projekteve, profileve dhe kushteve a
 | Produkti | Workplace |
 |---|---|
 | Domenet | [workplace.mk](https://workplace.mk/) · [frilenseri.mk](https://frilenseri.mk) |
-| Kategoria | Treg shërbimesh profesionale dhe projektesh |
+| Kategoria | Treg profesionistësh; e njëjta platformë si Workplace |
 | Statusi | LIVE |
 | Zhvilluesi | [PROCESS IN](https://processin.mk) |
 | Portofoli | [Produktet PROCESS IN](https://github.com/stambolce/process-in) |
